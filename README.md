@@ -1,5 +1,5 @@
 # IG-LOD
-CLARIAH is organized in Work Packages and Interest Groups (IG's). The key goal of each IG is to research, negotiate, propose, and implement technical choices that become a standard requirement in CLARIAH. This repository is intended to organize the work, output and documentation of the IG on Linked Open Data (LOD).
+CLARIAH is organized in Work Packages and Interest Groups (IG's). The key goal of each IG is to research, negotiate, propose, and implement technical choices that become a standard requirement in CLARIAH. This repository is intended to organize the work, output and documentation of the IG on Linked Open Data (LOD). Don't forget to checkout the other IG's at the overall [IG page](https://github.com/clariah/ig/).
 
 ## Newsflash!
 Our first meetup will be October 26th, 12:00-13:30 hours CET. Please reach out via an issue if you missed the details!
@@ -88,6 +88,7 @@ We use the following communication channel:
 - Jauco Noordzij (KNAW Humanities Cluster)
 - Jacco van Ossenbrugge (CWI, VU University) (invited)
 - Joe Raad (VU University)
+- Kathrin Dentler (Triply)
 - Ronald Siebes (DANS)(invited, tbc)
 - Sjors de Valk (Dutch Digital Heritage Network)
 - Thomas Vermaut (KNAW Humanities Cluster)
