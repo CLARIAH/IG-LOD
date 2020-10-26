@@ -1,6 +1,8 @@
 # Agenda for the first IG-LOD meetup
 2020-10-16, 12:00-13:30 hours via Zoom. [Assign an issue](https://github.com/clariah/ig-lod/issues) if you want to participate.
+
 presentation: https://docs.google.com/presentation/d/145ltQHLtLIyfhtRjFAThKHSqgsDc0YtIhMtLIMIBuDM/edit?usp=sharing
+
 notes: https://docs.google.com/presentation/d/145ltQHLtLIyfhtRjFAThKHSqgsDc0YtIhMtLIMIBuDM/edit?usp=sharing
 
 
