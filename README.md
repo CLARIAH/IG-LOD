@@ -98,7 +98,4 @@ We use the following communication channel:
 - Leon van Wissen (University of Amsterdam)
 - Maarten van Gompel (KNAW Humanities Cluster)
 
-Persons invited, but currently engaged in other activities:
-Jaap Blom, Marieke van Erp, , Paul Groth, Herbert van de Sompel, ...
-
-The group is open to new members. Contact [Richard Zijdeman](https://github.com/rlzijdeman)
+The group is open to new members. Create [an issue](https://github.com/clariah/ig-lod/issues/) to join.
