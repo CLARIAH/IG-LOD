@@ -17,10 +17,11 @@ The IG-LOD is currently organized in four subgroups focusing on:
 - Annotation, uncertainty and provenance (reliability)
 
 ## Use Cases
-- [WP4] How can I augment my dataset with information from other datasets?
+- [WP4/5] How can I augment my dataset with information from other datasets?
 - [WP4] Link multiple observations of the same person to each other?
 - [WP4] How can I analyze Linked Open Data with R / Python Pandas?
 - [WP4] Computers can now co-write with authors. Can they also assist me to design my hypotheses?
+- [WP5] How can I discover relevant materials beyond searching for names of the person/film that I'm interested in? (tbc)
 
 ## Communication
 - Slack (quick and dirty)
