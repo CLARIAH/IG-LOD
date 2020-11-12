@@ -3,7 +3,7 @@
 
 presentation: https://docs.google.com/presentation/d/145ltQHLtLIyfhtRjFAThKHSqgsDc0YtIhMtLIMIBuDM/edit?usp=sharing
 
-notes: https://docs.google.com/presentation/d/145ltQHLtLIyfhtRjFAThKHSqgsDc0YtIhMtLIMIBuDM/edit?usp=sharing
+notes: https://docs.google.com/document/d/1k1QNYkAxwy7lR4aneVsVFrLrHtQ1wP-IkLLUeIgjAUM/edit?usp=sharing
 
 
 In general the agenda is to confirm the aim, scope (key components) and organisation of the IG-LOD.
