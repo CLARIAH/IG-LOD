@@ -16,6 +16,14 @@ The IG-LOD is currently organized in four subgroups focusing on:
 - Sustainability and storage
 - Annotation, uncertainty and provenance (reliability)
 
+## Use Cases
+- [WP4] How can I augment my dataset with information from other datasets?
+- My dataset has persons, places, occupations, etc. (entities). How can I:
+  - [WP4] link observations of the same person to each other?
+  - [WP4] standardize the entities?
+- [WP4] How can I analyze Linked Open Data with R / Python Pandas?
+- [WP4] Computers can now co-write with authors. Can they also assist me to design my hypotheses?
+
 ## Communication
 - Slack (quick and dirty)
 - Github (documentation)
