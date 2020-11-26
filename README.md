@@ -22,6 +22,7 @@ The IG-LOD is currently organized in four subgroups focusing on:
 - [WP4] How can I analyze Linked Open Data with R / Python Pandas?
 - [WP4] Computers can now co-write with authors. Can they also assist me to design my hypotheses?
 - [WP5] How can I discover relevant materials beyond searching for names of the person/film that I'm interested in? (tbc)
+- [WP5] How can I restrain the resources that provide me with Linked Data (especially from a single graph)? (tbc)
 
 ## Communication
 - Slack (quick and dirty)
