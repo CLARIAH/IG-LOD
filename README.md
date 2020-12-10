@@ -2,7 +2,7 @@
 CLARIAH is organized in Work Packages and Interest Groups (IG's). The key goal of each IG is to research, negotiate, propose, and implement technical choices that become a standard requirement in CLARIAH. This repository is intended to organize the work, output and documentation of the IG on Linked Open Data (LOD). Don't forget to checkout the other IG's at the overall [IG page](https://github.com/clariah/ig/).
 
 ## Newsflash!
-Next meetup: December 14th, 12.30-14.00 hours, to be confirmed!
+Next meetup: December 14th, 12.30-14.00 hours CET.
 
 ## Aims of the Interest Group
 In CLARIAH CORE infrastructure and tools were mainly developed on a by work package basis.
