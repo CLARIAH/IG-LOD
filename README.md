@@ -17,6 +17,7 @@ The IG-LOD is currently organized in four subgroups focusing on:
 - Annotation, uncertainty and provenance (reliability)
 
 ## Use Cases
+- [SHCL] "Hoe kunnen we als “perifere” erfgoedinstelling (SHCL, Maastricht) de benodigde kennis in huis halen om concrete stappen in de gewenste richting te maken?"
 - [WP4/5] How can I augment my dataset with information from other datasets?
 - [WP4] Link multiple observations of the same person to each other?
 - [WP4] How can I analyze Linked Open Data with R / Python Pandas?
