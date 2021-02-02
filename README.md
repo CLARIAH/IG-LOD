@@ -112,5 +112,6 @@ Create an [issue](https://github.com/CLARIAH/IG-LOD/issues/new/choose) to join!
 - Menzo Windhouwer (KNAW Humanities Cluster)
 - Leon van Wissen (University of Amsterdam)
 - Maarten van Gompel (KNAW Humanities Cluster)
+- Pieterjan De Potter (Ghent Centre for Digital Humanities)
 
 The group is open to new members. Create [an issue](https://github.com/clariah/ig-lod/issues/) to join.
