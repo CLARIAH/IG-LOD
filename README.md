@@ -1,3 +1,12 @@
+The IG LOD has evolved into three new IG's:
+- [Modeling and Vocabularies](https://github.com/CLARIAH/IG-MoVA)
+- [Publication, Use and Findability](https://github.com/CLARIAH/IG-LOD-Findability)
+- [Sustainability and Storage](https://github.com/CLARIAH/IG-Sustainability)
+
+Information below is kept for archival purposes, but is no longer up to date. Please visit the IG overview page for [a list of all current IG's](https://github.com/clariah/ig/).
+
+
+
 # IG-LOD
 CLARIAH is organized in Work Packages and Interest Groups (IG's). The key goal of each IG is to research, negotiate, propose, and implement technical choices that become a standard requirement in CLARIAH. This repository is intended to organize the work, output and documentation of the IG on Linked Open Data (LOD). Don't forget to checkout the other IG's at the overall [IG page](https://github.com/clariah/ig/).
 
