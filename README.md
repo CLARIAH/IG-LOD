@@ -1,3 +1,5 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 The IG LOD has evolved into three new IG's:
 - [Modeling and Vocabularies](https://github.com/CLARIAH/IG-Vocabularies)
 - [Publication, Use and Findability](https://github.com/CLARIAH/IG-LOD-Findability)
